@@ -1,10 +1,8 @@
-# Rust Template [![License: MIT][license-badge]][license]
+# Robinson Group Rust Template [![License: MIT][license-badge]][license]
 
 [license]: https://opensource.org/licenses/MIT
 
 [license-badge]: https://img.shields.io/badge/License-MIT-blue.svg
-
-## Robinson Group Rust Template
 
 This repo serves as a template for rust projects in the [Robinson Group](https://robinsongroup.github.io/) of the BIH.
 
